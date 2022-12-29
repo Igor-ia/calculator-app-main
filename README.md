@@ -1,7 +1,8 @@
 # Calculator App
+<img title="Calculator App" alt="Calculator app gif" src="./github/Calculator-Animation.gif"/>
 
 # 🖥️ Projeto
-<p align="center">Este projeto é uma calculadora, com a funcionalidade de mudança da estilização dos temas de cores.</p>
+<p>Este projeto é uma calculadora, com a funcionalidade de mudança da estilização dos temas de cores.</p>
 
 # ⚙️ Tecnologias
 * [React](https://reactjs.org/)
